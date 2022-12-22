@@ -10,8 +10,6 @@ public class LionAlex extends Lion {
         super("Самец", feline);
     }
 
-
-    @Override
     public int getKittens() {
         return 0;
     }
